@@ -6,7 +6,7 @@ body{
     margin: 0;
     padding: 0;
 }
-#container{
+#conteiner{
     width: 70%;
     padding: 1em;
     text-align: center;
@@ -14,14 +14,7 @@ body{
     margin: 0 auto;
 }
 
-#cabecera{
-    background-color: blue;
-    color: wheat;
-    height: 60px;
-    padding-top: 30px;
-}
 
-
-#container h1{
+#conteiner h1{
     font-size: 20px;
 }
