@@ -14,6 +14,14 @@ body{
     margin: 0 auto;
 }
 
+#cabecera{
+    background-color: blue;
+    color: wheat;
+    height: 60px;
+    padding-top: 30px;
+}
+
+
 #container h1{
     font-size: 20px;
 }
